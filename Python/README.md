@@ -5,7 +5,7 @@ This section covers Python from beginner to intermediate level with a focus on A
 ## Notebooks
 
 - ✅ 01 - Python Basics
-- ⏳ 02 - Data Types
+- ✅ 02 - Data Types
 - ⏳ 03 - Operators
 - ⏳ 04 - Input & Output
 - ⏳ 05 - Control Flow
