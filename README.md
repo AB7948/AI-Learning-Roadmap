@@ -15,7 +15,7 @@ Projects/
 ## Current Progress
 
 - ✅ 01 - Python Basics
-- ⏳ 02 - Data Types
+- ✅ 02 - Data Types
 - ⏳ 03 - Operators
 - ⏳ 04 - Input & Output
 - ⏳ More coming soon...
